@@ -1,4 +1,7 @@
 # ignorar archivos temporales 
 *.tmp
+<<<<<<< HEAD
 # ignorar token
 token
+=======
+>>>>>>> 14f02fa2ec29cb98e1e0bd5a2b0480c473d5c882
